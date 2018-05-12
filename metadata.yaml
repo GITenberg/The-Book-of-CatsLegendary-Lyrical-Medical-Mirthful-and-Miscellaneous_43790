@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '42407'
     url: http://www.gutenberg.org/2009/agents/42407
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43790#The-Book-of-CatsLegendary-Lyrical-Medical-Mirthful-and-Miscellaneous
 gutenberg_issued: '2013-09-21'
 gutenberg_type: Text
 identifiers:
