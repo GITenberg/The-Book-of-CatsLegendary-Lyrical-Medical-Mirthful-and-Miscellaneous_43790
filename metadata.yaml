@@ -1,0 +1,32 @@
+_repo: The-Book-of-CatsLegendary-Lyrical-Medical-Mirthful-and-Miscellaneous_43790
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43790-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ross, Charles H. (Charles Henry)
+    aliases:
+    - Sloper, Ally
+    - Butt, Boswell, Esq.
+    - Evans, Edmund
+    - Ross, Charles Henry
+    - Ross, C. H. (Charles Henry)
+    deathdate: 1897
+    gutenberg_agent_id: '42407'
+    url: http://www.gutenberg.org/2009/agents/42407
+description: Illustrated by the author.
+gutenberg_issued: '2013-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cats -- Anecdotes'
+- !lcc 'SF'
+title: "The Book of Cats\r\nA Chit-chat Chronicle of Feline Facts and Fancies, Legendary,\
+  \ Lyrical, Medical, Mirthful and Miscellaneous"
+url: http://www.gutenberg.org/ebooks/43790
